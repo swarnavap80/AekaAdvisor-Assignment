@@ -1,0 +1,8 @@
+Top weekend destinations from Delhi:
+
+                               place           city          state      zone  rating  popularity     score
+315      Buddh International Circuit  Greater Noida  Uttar Pradesh   Central     4.6        7.40  0.832449
+305           Gurudwara Bangla Sahib      New Delhi          Delhi  Northern     4.8        1.05  0.690478
+92   Golden Temple (Harmandir Sahib)       Amritsar         Punjab  Northern     4.9        1.90  0.659865
+306                        Kedarnath      Kedarnath    Uttarakhand  Northern     4.8        2.00  0.655411
+17                  Gateway of India         Mumbai     Maharastra   Western     4.6        3.60  0.652719
