@@ -16,5 +16,5 @@ based on distance, rating, and popularity.
 ## Run
 python recommendation.py
 
-#Run 
+#for installing libraries use
 pip install
